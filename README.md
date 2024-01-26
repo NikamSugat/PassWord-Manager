@@ -21,15 +21,4 @@ cd PassWord-Manager
 chmod +x passman.sh
 ./passman.sh
 
-### Windows (using Git Bash)
-git clone https://github.com/NikamSugat/PassWord-Manager.git
-cd PassWord-Manager
-chmod +x passman.sh
-./passman.sh
-
-### Contact Information
-Email: gamersugat571@gmail.com
-LinkedIn: www.linkedin.com/in/nikamsugat
-Try HackMe: https://tryhackme.com/p/Sugat
-
-### Feel free to reach out if you have any questions or suggestions!
+### Windows
