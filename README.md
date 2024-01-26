@@ -16,32 +16,32 @@ This Password Manager is a simple command-line script written in Bash. It provid
 
 ### Linux
 
-git clone https://github.com/NikamSugat/PassWord-Manager.git
+* git clone https://github.com/NikamSugat/PassWord-Manager.git
 
-cd PassWord-Manager
+* cd PassWord-Manager
 
-chmod +rwx passman.sh (For read write and execute)
+* chmod +rwx passman.sh (For read write and execute)
 
-./passman.sh
+* ./passman.sh
 
 ### Windows (Using Git Bash)
 
-git clone https://github.com/NikamSugat/PassWord-Manager.git
+* git clone https://github.com/NikamSugat/PassWord-Manager.git
 
-cd PassWord-Manager
+* cd PassWord-Manager
 
-chmod +rwx passman.sh (For read write and execute)
+* chmod +rwx passman.sh (For read write and execute)
 
-./passman.sh
+* ./passman.sh
 
 
 ### Contact Information
 
-Email: gamersugat571@gmail.com
+* Email: gamersugat571@gmail.com
 
-LinkedIn: www.linkedin.com/in/nikamsugat
+* LinkedIn: www.linkedin.com/in/nikamsugat
 
-Try HackMe: https://tryhackme.com/p/Sugat
+* Try HackMe: https://tryhackme.com/p/Sugat
 
 ### Feel free to reach out if you have any questions or suggestions!
 
